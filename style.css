@@ -42,6 +42,10 @@ article {
 	margin: 10px;
 }
 
+dt {
+	font-weight: 700
+}
+
 .female {
 	background-color: #ffebe8;
 	padding: 10px;
